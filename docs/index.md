@@ -1,8 +1,3 @@
----
-
-layout: splash
-
----
 
 # ExoFMS Online Documentation
 
