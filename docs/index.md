@@ -5,6 +5,6 @@ header:
 
 ---
 
-# ExoFMS Online Documentation
+# ExoFMS Documentation
 
 ExoFMS
