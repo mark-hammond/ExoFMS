@@ -1,3 +1,0 @@
-# ExoFMS Online Documentation
-
-ExoFMS
